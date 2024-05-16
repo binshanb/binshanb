@@ -9,7 +9,7 @@ This project includes a Python script that scrapes job listings from the Bentley
 - `README.md`: This file with instructions and project details.
 
 ## Requirements
-- Python 3.6+
+- Python 3.12+
 - Required Python libraries: `requests`, `lxml`, `pandas`, `xlsxwriter`
 
 ## How to Run the Script
